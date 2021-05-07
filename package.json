@@ -11,6 +11,6 @@
   "dependencies": {
     "kinvey-flex-sdk": "^3.3.0",
     "request": "^2.88.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
